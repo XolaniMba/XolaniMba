@@ -4,7 +4,7 @@
 - 🔹 Love problem-solving and working on creative solutions 🤓⚡  
 - 🔹 Open to collaboration and exciting opportunities! 🤝  
 
-📫 Feel free to connect with me! 😃  
+📫 Feel free to connect with me! 😃  <br>  <br> 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/who.istshego/)  
 
 # 💻 Tech Stack:
