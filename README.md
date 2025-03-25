@@ -1,4 +1,4 @@
-## Hi, I'm XolaniMba. <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0F31FF8A&width=435&lines=Hi%2C+I'm+XolaniMba.)](https://git.io/typing-svg)
 - 🔹 Skilled in **SAS, SQL, Python, JavaScript, and COBOL** 🖥️  
 - 🔹 Currently exploring **Web Development & Automation** 🌍🤖  
 - 🔹 Love problem-solving and working on creative solutions 🤓⚡  
