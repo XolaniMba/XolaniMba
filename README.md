@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Xolani+Mba.;A+Developer+%F0%9F%92%BB+%7C+Tech+Enthusiast+%F0%9F%94%A5;Lifelong+Learner+%F0%9F%8C%8D+|+Code+Explorer+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Xolani+Mba+%F0%9F%91%8B;Developer+%F0%9F%92%BB+%7C+Data+Enthusiast+%F0%9F%94%A5;COBOL+%7C+Python+%7C+SQL+%7C+HTML%2FCSS%2FJS;Building+Cool+Things+with+Code+%F0%9F%9A%80;Learning+Every+Day+%F0%9F%93%9A+Growing+Every+Step+%F0%9F%8C%9F;Let's+Connect+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
+
 
 - 🔹 Skilled in **SAS, SQL, Python, JavaScript, and COBOL** 🖥️  
 - 🔹 Currently exploring **Web Development & Automation** 🌍🤖  
